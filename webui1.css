@@ -1,0 +1,186 @@
+* {
+	background-color: #e5e5e5
+}
+
+#outer {
+}
+body {
+	width: 1000px;
+	height: 2000px;
+	position: relative;
+}
+aside {
+	width: 200px;
+	position: relative;
+	left: 10px;
+	font-size: 20px;
+	padding: 10px;
+	vertical-align: top;
+	
+
+}
+header > #a1 {
+	position: relative;
+	left: 20px; 
+}
+
+header > #a1 > h1{
+	position: relative;
+	left: 10px;
+	display: inline;
+	color: gray;
+
+}
+header > #a1> form{
+	position: relative;
+	display: inline;
+	left: 50px;
+}
+
+ul {
+	list-style: none;
+}
+
+#upperleft {
+position: absolute;
+right: 0px; top: 0px;
+}
+
+#upperleft > ul > li{
+float: left;
+}
+
+#upperleft > ul > li > a{
+	display: inline;
+	padding: 10px;
+}
+
+#gnb {
+position: relative;
+left: 230px; top: 30px;
+height: 80px;
+line-height: 80px;
+background-color: white;
+font-family: sans-serif;
+color: gray;
+}
+
+#gnb > ul:nth-child(1) > li{
+float: left;
+position: relative;
+background: transparent;
+}
+
+#gnb > ul:nth-child(1) > li > a{
+	display: inline;
+	padding: 20px;
+	background-color: white;
+}
+
+#gnb > ul:nth-child(2) > li{
+float: left;
+position: relative;
+left: 200px;
+background: transparent;
+
+}
+
+#gnb > ul:nth-child(2) > li > a{
+	display: inline;
+	padding: 10px;
+	background-color: white;
+	border: 1px solid gray;
+}
+
+section {
+left: 230px;
+display: block;
+position: relative;
+padding: 10px;
+top: 0px;
+
+}
+
+#more > ul> li{
+	list-style: none;
+}
+
+#more > ul> li:nth-child(1)> a{
+	position: relative;
+	float: right;
+	
+}
+section> article{
+	height: 460px;
+}
+section> article> ul{
+	position: relative;
+	top: 10px;
+}
+
+section > article> ul > li:nth-child(2) {
+	display: inline-block;
+	float: left;
+}
+
+section > article> ul > li:nth-child(3) {
+	display: inline-block;
+	float: left;	
+}
+section > article> ul > li:nth-child(4) {
+	display: inline-block;
+	float: left;
+}
+section > article> ul > li:nth-child(5) {
+	display: inline-block;
+	float: left;
+}
+
+
+.d{
+	position: relative;
+	top: 40px;
+	display:block;
+	width: 200px;
+	height: 180px;
+	background-color: transparent;
+
+}
+
+.d>#price> a{
+float: right;
+right: 0px;
+display: inline-block;
+
+}
+
+.img{
+	position: relative;
+	top: 20px;
+	width:200px;
+	display: inline;
+	float: left;
+	padding: 2px;
+}
+
+footer{
+	position: absolute;
+	bottom: 0px;
+	left:  230px;
+	width: 1000px;
+}
+
+footer{
+	display: block;
+}
+
+#footer > div > a{
+
+float: left;
+padding: 10px;
+}
+
+footer> div:nth-child(2)>p{
+	position: absolute;
+	top: 40px;
+}
