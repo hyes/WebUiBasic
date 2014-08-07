@@ -1,0 +1,194 @@
+div, h1, h2, h3, li, a {margin: 0; padding: 0; list-style: none; text-decoration: none; color: black; 
+}
+
+body {
+    background-color: #e5e5e5;
+}
+
+#rightmenu > button{
+    float: left;
+    width: 24px;
+    height: 24px;
+    top: 10px;
+    margin-left: 5px;
+    background-image:url(images/menu.png);
+    background-position: -4px -2px;
+}
+
+#leftmenu > button{
+    float: right;
+    width: 24px;
+    height: 24px;
+    top: 10px;
+    margin-right: 5px;
+    background-image: url(images/search.png) ;
+     background-position: -2px -2px;
+}
+header>img{
+    position: absolute;
+    margin-right: 30%;
+    margin-left: 30%;
+
+}
+
+nav {
+    position: relative;
+    top: 30px;
+    clear: both;
+
+}
+
+nav> ul> li{
+  
+   margin-left: 10%;
+    margin-right: 0%;
+    float: left;
+    position: relative;
+ 
+}
+nav>ul>li>a{
+    background-color: #fff;
+    padding: 10px;
+    width: 200px;
+    color: #B7B7B7;
+  
+}
+section{
+  
+    position: relative;
+    top: 70px;
+}
+
+section> article{
+height: 460px;
+clear: both;
+    
+}
+
+h2 {
+font-size: 20px;
+  
+}
+
+h3 {
+font-size: 14px;
+display: inline;
+}
+
+section > article> ul > li {
+    width: 188px;
+    height: 330px;
+    top: 20px;
+    float: left;
+    background-color: #fff;
+    margin-left: 10px;
+    position: relative;
+    margin-bottom: 50px;
+}
+
+section > article > ul > li img {
+    padding: 4px;
+}
+.d{
+    padding: 10px 0 0 10px;
+    width: 200px;
+    height: 180px;
+}
+
+.d > span {
+    font-size: 0.8em;
+    color: #ccc;
+}
+
+.d> .price {
+    position: absolute;
+    bottom: 30px;
+    right: 10px;
+}
+
+.d> .price > a{
+    color: #2da9e3;
+    font-size: 0.9em;
+}
+
+
+.more button{
+   position: relative;
+    float: right;
+    top: -10px;
+    background-color: #1bb5ff;
+    font-size: 0.92em;
+    color: #fff;
+    width: 70px;
+    height: 30px;
+    line-height: 1px;
+}
+#bottombutton{
+position: absolute;
+    bottom: 20px;
+    left: 50%;
+}
+
+footer{
+    position: relative;
+    top: 70px;
+    width: 100%;
+    display: inline;    
+}
+
+footer {
+    float: left;
+    display: inline;
+    font-size: 12px;
+}
+
+
+#google div> a{
+
+float: left;
+padding: 5px;
+}
+
+footer div p{
+clear: both;
+    font-size: 10px;
+}
+
+
+@media (max-width:660px) {
+
+nav {
+left: -30px;
+}
+section> article{
+    height: 460px;
+    overflow: hidden;
+}
+
+section > article> ul > li:nth-child(3) {
+    visibility:hidden;
+    overflow: hidden;
+    
+}
+}
+
+@media (max-width:400px) {
+
+section> article{
+    height: 460px;
+    overflow: hidden;
+}
+    
+section > article> ul > li:nth-child(2) {
+    visibility:hidden;
+    overflow: hidden;     
+}
+ section > article> ul > li:nth-child(1) {
+  position: relative;
+     left: 20%
+}   
+}
+}
+}
+    
+
