@@ -5,6 +5,7 @@
   <title>week4_Google Play</title>
   <link rel="stylesheet" type="text/css" href="webui1.css" >
 
+
 </head><body>
 <div id="outer">
     <header>
@@ -20,7 +21,7 @@
 
       <nav id="upperleft">
         <ul>
-            <li><a href=#>+사용자</a></li>
+            <li class="class1"><a href=#>+hyeyeoun</a></li>
             <li><a href=#><div></div></a></li>
             <li><a href=#><div></div></a></li>
             <li><a href=#>공유</a></li>
@@ -30,11 +31,22 @@
           
       </a><nav id="gnb"><a href=#>
         </a><ul id="gnb_left"><a href=#>
-            </a><li><a href=#><p>장르</p> <div></div></a></li>
+            </a><li><a href=#><p id ="genre">장르</p> <div></div></a></li>
             <li><a href=#>홈</a></li>
             <li><a href=#>인기 차트</a></li>
             <li><a href=#>신간</a></li>
         </ul>
+        <ul id = "subgenre", class = "subgenre", style ="display: none;" >
+            <li class="genreFamily">가족/관계</li>
+            <li class="genreHealth">건강/웰빙</li>
+            <li class ="genreEconomics">경영/경제</li>
+            <li class = "genreScience">과학/수학</li>
+            <li class = "genreComics">만화</li>
+            <li class = "genreLiterature">소설/문학</li>
+            <li class = "genreChildren">어린이</li>
+            <li class = "genreTravel">여행</li>
+        </ul>
+        
         <ul id="gnb_right">
             <li><button></button></li>
             <li><button></button></li>
@@ -66,12 +78,12 @@
       </ul>
 
     </aside>
-    <section>
+    <section id = "renewUnit">
       <article>
         <div class="more">
          <h2>주간 베스트</h2>
          <h3>한 주 동안 가장 많은 사랑을 받은 도서</h3>
-         <button onclick="#">더보기</button>
+         <button class = "morebutton">더보기</button>
         </div>
           <ul>
           <li>
@@ -199,4 +211,15 @@
         
 </div>
 
-<div class="__brackets-ld-highlight" style="left: 208px; top: 1520px; width: 1000px; height: 0px; z-index: 2000000; margin: 0px; padding: 0px; position: absolute; pointer-events: none; border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px; border: 1px solid rgb(0, 162, 255); box-shadow: rgb(255, 255, 255) 0px 0px 1px; box-sizing: border-box; opacity: 1; background-color: rgba(0, 162, 255, 0);"></div></body></html>
+<div class="__brackets-ld-highlight" style="left: 208px; top: 1520px; width: 1000px; height: 0px; z-index: 2000000; margin: 0px; padding: 0px; position: absolute; pointer-events: none; border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px; border: 1px solid rgb(0, 162, 255); box-shadow: rgb(255, 255, 255) 0px 0px 1px; box-sizing: border-box; opacity: 1; background-color: rgba(0, 162, 255, 0);"></div>
+
+<script src="webui1.js">
+    
+</script>
+  
+
+</body>
+
+
+
+</html>

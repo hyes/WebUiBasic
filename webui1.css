@@ -2,10 +2,13 @@ div, h1, h2, h3, li, a {margin: 0; padding: 0; list-style: none; text-decoration
 }
 
 body {
-	background-color: #e5e5e5
+	background-color: #e5e5e5;
+    
+    
 }
 #outer {
     width: 1000px;
+    
 }
 
 aside {
@@ -48,6 +51,9 @@ aside>div  {
     float: left;
     width: 20px;
     height: 190px;
+    position: absolute;
+    top: 50px;
+
     
 }
 
@@ -170,9 +176,25 @@ float:left;
     -webkit-transform:rotate(-90deg);
 }
 
+#subgenre {
+   
+    height: 350px;
+    width: 160px;
+    position: absolute;
+    left: 240px;
+    top: 90px;  
+    background-color: #fff;
+    text-align: left;
+}
+
+#subgenre li {
+padding: 11px;
+}
+
 #gnb_right {
     float: right;
     margin-right: 30px;
+    
 }
 
 #gnb li {
@@ -184,6 +206,7 @@ float:left;
     background-color: #fff;
     width: 60px;
     height: 24px;
+   
 }
 
 #gnb li:first-child button {
@@ -245,7 +268,7 @@ section > article > ul > li img {
 
 .d{
     padding: 10px 0 0 10px;
-	width: 200px;
+	width: 140px;
 	height: 180px;
 }
 

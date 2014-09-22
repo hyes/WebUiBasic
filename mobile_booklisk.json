@@ -1,0 +1,45 @@
+    
+   {
+      "genreA" : [ 
+    {
+        "name" : "git어떻게 동작하는가", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/QR3BhpxgnCgC?fife=w300-rw", 
+        "price" : "무료",
+        "author" : "John Wiegley"
+    },
+     {
+        "name" : "git어떻게 동작하는가", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/QR3BhpxgnCgC?fife=w300-rw", 
+        "price" : "무료",
+        "author" : "John Wiegley"
+    },
+    {
+        "name" : "git어떻게 동작하는가", 
+        "imgSrc"
+: "https://encrypted.google.com/books/images/frontcover/QR3BhpxgnCgC?fife=w300-rw", 
+        "price" : "무료",
+        "author" : "John Wiegley"
+    }
+     ],
+   
+        "genreB" : [ 
+     {
+        "name" : "어린왕자", 
+        "imgSrc" : "http://goo.gl/pDXdVo", 
+        "price" : "11",
+        "author" : "앙투안 드 생텍쥐페리" 
+    },
+    {
+        "name" : "어린왕자", 
+        "imgSrc" : "http://goo.gl/pDXdVo", 
+        "price" : "11",
+        "author" : "앙투안 드 생텍쥐페리" 
+    },
+     {
+        "name" : "어린왕자", 
+        "imgSrc" : "http://goo.gl/pDXdVo", 
+        "price" : "11",
+        "author" : "앙투안 드 생텍쥐페리" 
+    }
+     ]
+     }

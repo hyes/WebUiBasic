@@ -1,0 +1,271 @@
+{
+    
+      "genreFamily" : [ 
+    {
+        "name" : "git어떻게 동작하는가", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/QR3BhpxgnCgC?fife=w300-rw", 
+        "price" : "무료",
+        "author" : "John Wiegley"
+    },
+     {
+        "name" : "git어떻게 동작하는가", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/QR3BhpxgnCgC?fife=w300-rw", 
+        "price" : "무료",
+        "author" : "John Wiegley"
+    },
+    {
+        "name" : "git어떻게 동작하는가", 
+        "imgSrc"
+: "https://encrypted.google.com/books/images/frontcover/QR3BhpxgnCgC?fife=w300-rw", 
+        "price" : "무료",
+        "author" : "John Wiegley"
+    },
+     {
+        "name" : "git어떻게 동작하는가", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/QR3BhpxgnCgC?fife=w300-rw", 
+        "price" : "무료",
+        "author" : "John Wiegley"
+    }
+     ],
+    
+        "genreHealth" : [ 
+    {
+       "name" : "60억분의 1", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/XjEs-XLQ8hUC?fife=w300-rw", 
+        "price" : "무료",
+        "author" : "백승후"
+    },
+     {
+        "name" : "60억분의 1", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/XjEs-XLQ8hUC?fife=w300-rw", 
+        "price" : "무료",
+        "author" : "백승후"
+    },
+    {
+        "name" : "60억분의 1", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/XjEs-XLQ8hUC?fife=w300-rw", 
+        "price" : "무료",
+        "author" : "백승후"
+    },
+     {
+         "name" : "60억분의 1", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/XjEs-XLQ8hUC?fife=w300-rw", 
+        "price" : "무료",
+        "author" : "백승후"
+    }
+     ],
+        "genreEconomics" : [ 
+    {
+        "name" : "아서왕과 원탁의 기사들", 
+        "imgSrc" : "http://goo.gl/tfHw4e", 
+        "price" : "3000",
+        "author" : "토머스 불핀치"
+    },
+     {
+       "name" : "아서왕과 원탁의 기사들", 
+        "imgSrc" : "http://goo.gl/tfHw4e", 
+        "price" : "3000",
+        "author" : "토머스 불핀치"
+    },
+    {
+        "name" : "아서왕과 원탁의 기사들", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/-SQzAAAAQBAJ?fife=w300-rw", 
+        "price" : "640",
+        "author" : "김현철" 
+    },
+     {
+         "name" : "아서왕과 원탁의 기사들", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/-SQzAAAAQBAJ?fife=w300-rw", 
+        "price" : "640",
+        "author" : "김현철" 
+    }
+     ], 
+       
+        "genreScience" : [ 
+    {
+        "name" : "아무도 울지 않는 연애는 없다", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/-SQzAAAAQBAJ?fife=w300-rw", 
+        "price" : "640",
+        "author" : "김현철" 
+    },
+     {
+        "name" : "아무도 울지 않는 연애는 없다", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/-SQzAAAAQBAJ?fife=w300-rw", 
+        "price" : "640",
+        "author" : "김현철" 
+    },
+    {
+        "name" : "아무도 울지 않는 연애는 없다", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/-SQzAAAAQBAJ?fife=w300-rw", 
+        "price" : "640",
+        "author" : "김현철" 
+    },
+     {
+        "name" : "아무도 울지 않는 연애는 없다", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/-SQzAAAAQBAJ?fife=w300-rw", 
+        "price" : "640",
+        "author" : "김현철" 
+    }
+     ],
+          
+                 
+        "genreChildren" : [ 
+    {
+       "name" : "어린왕자", 
+        "imgSrc" : "http://goo.gl/pDXdVo", 
+        "price" : "99999",
+        "author" : "앙투안 드 생텍쥐페리" 
+    },
+     {
+        "name" : "아서왕과 원탁의 기사들", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/-SQzAAAAQBAJ?fife=w300-rw", 
+        "price" : "640",
+        "author" : "김현철" 
+    },
+    {
+        "name" : "아무도 울지 않는 연애는 없다", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/-SQzAAAAQBAJ?fife=w300-rw", 
+        "price" : "640",
+        "author" : "김현철" 
+    },
+     {
+         "name" : "너무나 인간적이지만", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/etFbAgAAQBAJ?fife=w300-rw", 
+        "price" : "2760",
+        "author" : "발타자르그라시안" 
+    }
+     ],
+             "genreLiterature" : [ 
+    {
+        "name" : "너무나 인간적이지만", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/etFbAgAAQBAJ?fife=w300-rw", 
+        "price" : "2760",
+        "author" : "발타자르그라시안" 
+    },
+     {
+        "name" : "너무나 인간적이지만", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/etFbAgAAQBAJ?fife=w300-rw", 
+        "price" : "2760",
+        "author" : "발타자르그라시안" 
+    },
+    {
+        "name" : "너무나 인간적이지만", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/etFbAgAAQBAJ?fife=w300-rw", 
+        "price" : "2760",
+        "author" : "발타자르그라시안" 
+    },
+     {
+        "name" : "너무나 인간적이지만", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/etFbAgAAQBAJ?fife=w300-rw", 
+        "price" : "2760",
+        "author" : "발타자르그라시안" 
+    }
+     ],          
+        "genreComics" : [ 
+    {
+        "name" : "아무도 울지 않는 연애는 없다", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/-SQzAAAAQBAJ?fife=w300-rw", 
+        "price" : "640",
+        "author" : "김현철" 
+    },
+     {
+        "name" : "아무도 울지 않는 연애는 없다", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/-SQzAAAAQBAJ?fife=w300-rw", 
+        "price" : "640",
+        "author" : "김현철" 
+    },
+    {
+        "name" : "아무도 울지 않는 연애는 없다", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/-SQzAAAAQBAJ?fife=w300-rw", 
+        "price" : "640",
+        "author" : "김현철" 
+    },
+     {
+        "name" : "아무도 울지 않는 연애는 없다", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/-SQzAAAAQBAJ?fife=w300-rw", 
+        "price" : "640",
+        "author" : "김현철" 
+    }
+     ],
+    
+            "genreTravel" : [ 
+    {
+       "name" : "어린왕자", 
+        "imgSrc" : "http://goo.gl/pDXdVo", 
+        "price" : "99999",
+        "author" : "앙투안 드 생텍쥐페리" 
+    },
+     {
+        "name" : "너무나 인간적이지만 현실감각없는 당신에게", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/etFbAgAAQBAJ?fife=w300-rw", 
+        "price" : "2760",
+        "author" : "발타자르그라시안" 
+    },
+    {
+        "name" : "아무도 울지 않는 연애는 없다", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/-SQzAAAAQBAJ?fife=w300-rw", 
+        "price" : "640",
+        "author" : "김현철" 
+    },
+     {
+        "name" : "아무도 울지 않는 연애는 없다", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/-SQzAAAAQBAJ?fife=w300-rw", 
+        "price" : "640",
+        "author" : "김현철" 
+    }
+     ],
+        "genreComics" : [ 
+    {
+       "name" : "어린왕자", 
+        "imgSrc" : "http://goo.gl/pDXdVo", 
+        "price" : "99999",
+        "author" : "앙투안 드 생텍쥐페리" 
+    },
+     {
+        "name" : "어린왕자", 
+        "imgSrc" : "http://goo.gl/pDXdVo", 
+        "price" : "99999",
+        "author" : "앙투안 드 생텍쥐페리" 
+    },
+    {
+        "name" : "아무도 울지 않는 연애는 없다", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/-SQzAAAAQBAJ?fife=w300-rw", 
+        "price" : "640",
+        "author" : "김현철" 
+    },
+     {
+        "name" : "아무도 울지 않는 연애는 없다", 
+        "imgSrc" : "https://encrypted.google.com/books/images/frontcover/-SQzAAAAQBAJ?fife=w300-rw", 
+        "price" : "640",
+        "author" : "김현철" 
+    }
+     ],
+    
+        "genreScience" : [ 
+    {
+        "name" : "어린왕자", 
+        "imgSrc" : "http://goo.gl/pDXdVo", 
+        "price" : "11",
+        "author" : "앙투안 드 생텍쥐페리" 
+    },
+     {
+        "name" : "어린왕자", 
+        "imgSrc" : "http://goo.gl/pDXdVo", 
+        "price" : "11",
+        "author" : "앙투안 드 생텍쥐페리" 
+    },
+    {
+        "name" : "어린왕자", 
+        "imgSrc" : "http://goo.gl/pDXdVo", 
+        "price" : "11",
+        "author" : "앙투안 드 생텍쥐페리" 
+    },
+     {
+        "name" : "어린왕자", 
+        "imgSrc" : "http://goo.gl/pDXdVo", 
+        "price" : "11",
+        "author" : "앙투안 드 생텍쥐페리" 
+    }
+     ]
+     }
+    
